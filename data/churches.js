@@ -240,27 +240,6 @@ window.CHURCHES = [
     ]
   },
   {
-    id: "kingdom-grace",
-    name: "Kingdom Grace International Church",
-    denomination: "pentecostal",
-    place: "noordsalina",
-    address: "Kaya Casique (tegenover Sentro di Bario Nort Saliña)",
-    lat: 12.1712, lng: -68.2705,
-    phone: "+599 782-4564",
-    services: [
-      { day: 0, time: "10:00", langs: ["en", "pap"], type: "service" },
-      { day: 6, time: "16:00", langs: ["en", "pap"], type: "kids" }
-    ],
-    note: {
-      nl: "Ook een doordeweekse avondmaalsdienst om 18:30 (dag navragen). Tweede telefoonnummer: +599 788-3597.",
-      en: "Also a midweek communion service at 18:30 (ask which day). Second phone number: +599 788-3597.",
-      pap: "Tambe un sirbishi di santa sena meimei di siman na 18:30 (puntra ki dia). Di dos number di telefòn: +599 788-3597."
-    },
-    sources: [
-      "https://infobonaire.com/moving-living-bonaire/religion-churches-bonaire/"
-    ]
-  },
-  {
     id: "nak",
     name: "Nieuw-Apostolische Kerk Bonaire",
     denomination: "newapostolic",
