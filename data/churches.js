@@ -93,7 +93,7 @@ window.CHURCHES = [
     denomination: "catholic",
     place: "rincon",
     address: "Kaya Rincon 48, Rincon",
-    lat: 12.2371, lng: -68.3305,
+    lat: 12.2385, lng: -68.3303,
     facebook: "https://www.facebook.com/p/Parokia-San-Luis-Beltran-100064544808949/",
     services: [
       { day: 0, time: "07:00", langs: ["pap"], type: "mass" },
@@ -140,7 +140,7 @@ window.CHURCHES = [
     denomination: "protestant",
     place: "rincon",
     address: "Rincon",
-    lat: 12.2436, lng: -68.3275,
+    lat: 12.2381, lng: -68.3322,
     phone: "+599 717-8086",
     website: "https://protestantsegemeentebonaire.com/",
     services: [
