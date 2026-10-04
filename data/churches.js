@@ -32,8 +32,7 @@ window.DENOMINATIONS = {
   evangelical: { color: "#2e8b57" },
   pentecostal: { color: "#d9822b" },
   adventist:   { color: "#7b4ea3" },
-  newapostolic:{ color: "#0f8a8a" },
-  christ:      { color: "#8a6d1f" }
+  newapostolic:{ color: "#0f8a8a" }
 };
 
 window.PLACES = ["kralendijk", "antriol", "nikiboko", "noordsalina", "terakora", "hato", "rincon"];
@@ -282,30 +281,6 @@ window.CHURCHES = [
     sources: [
       "https://bonairevakantieland.nl/thema-artikelen-over-bonaire/kerkdiensten-op-bonaire/",
       "https://www.nak-nl.org/antillen/bonaire"
-    ]
-  },
-  {
-    id: "iglesia-di-cristo",
-    name: "Iglesia di Cristo (Church of Christ)",
-    denomination: "christ",
-    place: "terakora",
-    address: "Kaya Msgr. Nieuwindt 25 / Sentro di Bario Tera Kora",
-    lat: 12.1399, lng: -68.2644,
-    phone: "+599 796-0721",
-    translation: ["en"],
-    services: [
-      { day: 0, time: "10:30", langs: ["pap"], type: "service" },
-      { day: 0, time: "19:00", langs: ["pap"], type: "service" },
-      { day: 3, time: "19:00", langs: ["pap"], type: "service" }
-    ],
-    note: {
-      nl: "Engels indien nodig.",
-      en: "English if needed.",
-      pap: "Ingles si ta nesesario."
-    },
-    sources: [
-      "https://infobonaire.com/moving-living-bonaire/religion-churches-bonaire/",
-      "https://bonairevakantieland.nl/thema-artikelen-over-bonaire/kerkdiensten-op-bonaire/"
     ]
   },
   {
