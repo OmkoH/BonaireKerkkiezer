@@ -95,15 +95,16 @@ window.CHURCHES = [
     lat: 12.2385, lng: -68.3303,
     facebook: "https://www.facebook.com/p/Parokia-San-Luis-Beltran-100064544808949/",
     services: [
-      { day: 0, time: "07:00", langs: ["pap"], type: "mass" },
+      { day: 0, time: "06:00", langs: ["pap"], type: "mass" },
       { day: 0, time: "09:00", langs: ["pap"], type: "mass" },
-      { day: 1, time: "19:00", langs: ["pap"], type: "mass" },
-      { day: 3, time: "19:00", langs: ["pap"], type: "mass" }
+      { day: 0, time: "19:30", langs: ["pap"], type: "mass" },
+      { day: 1, time: "19:30", langs: ["pap"], type: "mass" },
+      { day: 3, time: "19:30", langs: ["pap"], type: "mass" }
     ],
     note: {
-      nl: "Oudste kerk van Bonaire. Oudere bronnen noemen ook zondag 06:00 en 19:30 — controleer de Facebookpagina van de parochie.",
-      en: "Oldest church on Bonaire. Older sources also mention Sunday 06:00 and 19:30 — check the parish Facebook page.",
-      pap: "Misa mas bieu di Boneiru. Fuente mas bieu ta menshoná tambe djadumingu 06:00 i 19:30 — chèk e página di Facebook di e parokia."
+      nl: "Oudste kerk van Bonaire.",
+      en: "Oldest church on Bonaire.",
+      pap: "Misa mas bieu di Boneiru."
     },
     sources: [
       "https://www.facebook.com/p/Parokia-San-Luis-Beltran-100064544808949/",
