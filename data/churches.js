@@ -207,9 +207,9 @@ window.CHURCHES = [
     id: "activate",
     name: "Activate Church Bonaire",
     denomination: "evangelical",
-    place: "kralendijk",
-    address: "Van der Valk Plaza Beach Resort, Kaya Julio A. Abraham 80, Kralendijk",
-    lat: 12.1372, lng: -68.2754,
+    place: "terakora",
+    address: "Sentro di Bario Tera Cora, Kralendijk",
+    lat: 12.1382, lng: -68.2648,
     website: "https://www.activatebonaire.com/",
     services: [
       { day: 0, time: "10:00", langs: ["nl", "en"], type: "service" }
