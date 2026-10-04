@@ -45,6 +45,7 @@ window.I18N = {
     showOnMap: "Op kaart",
     sources: "Bronnen",
     disclaimer: d => `Gegevens verzameld uit openbare bronnen (laatst gecontroleerd: ${d}). Tijden kunnen wijzigen — neem bij twijfel contact op met de kerk.`,
+    hobby: "Dit is een persoonlijk hobbyproject zonder officiële band met de genoemde kerken. Ondanks zorgvuldige samenstelling kunnen gegevens onjuist of verouderd zijn.",
     correction: "Fout of kerk ontbreekt? Meld het via GitHub.",
     mapNote: "Locaties op de kaart zijn indicatief."
   },
@@ -93,6 +94,7 @@ window.I18N = {
     showOnMap: "On map",
     sources: "Sources",
     disclaimer: d => `Data collected from public sources (last checked: ${d}). Times may change — when in doubt, contact the church.`,
+    hobby: "This is a personal hobby project with no official affiliation with any of the churches listed. While compiled with care, information may be inaccurate or out of date.",
     correction: "Found an error or a missing church? Report it on GitHub.",
     mapNote: "Map locations are approximate."
   },
@@ -141,6 +143,7 @@ window.I18N = {
     showOnMap: "Riba mapa",
     sources: "Fuente",
     disclaimer: d => `Informashon kolektá for di fuente públiko (último kontrol: ${d}). Ora por kambia — si bo tin duda, tuma kontakto ku e misa.`,
+    hobby: "Esaki ta un proyekto personal di hobista sin ningún relashon ofisial ku e misianan menshoná. Maske kompilá ku kuidao, informashon por ta inkorekto òf desaktualisa.",
     correction: "Bo a haña un eror òf un misa ta falta? Raporta esaki via GitHub.",
     mapNote: "Lugánan riba mapa ta aproksimado."
   }

@@ -121,6 +121,7 @@
       PLACES.map(p => `<option value="${p}"${state.place === p ? " selected" : ""}>${esc(L.places[p])}</option>`).join("");
 
     $("#disclaimer").textContent = L.disclaimer(new Date(window.LAST_CHECKED).toLocaleDateString(state.ui === "en" ? "en-GB" : "nl-NL", { day: "numeric", month: "long", year: "numeric" }));
+    $("#hobby").textContent = L.hobby;
   }
 
   function serviceRow(c, s) {
