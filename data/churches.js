@@ -30,7 +30,6 @@ window.DENOMINATIONS = {
   catholic:    { color: "#b4232a" },
   protestant:  { color: "#1f5fa8" },
   evangelical: { color: "#2e8b57" },
-  pentecostal: { color: "#d9822b" },
   adventist:   { color: "#7b4ea3" },
   newapostolic:{ color: "#0f8a8a" }
 };
@@ -222,22 +221,6 @@ window.CHURCHES = [
     },
     sources: [
       "https://www.activatebonaire.com/agenda/298083/kerkdienst.html"
-    ]
-  },
-  {
-    id: "assembly-of-god",
-    name: "Asemblea di Dios (Assembly of God)",
-    denomination: "pentecostal",
-    place: "kralendijk",
-    address: "Kaya Triton (Den Cheffi)",
-    lat: 12.1469, lng: -68.2673,
-    phone: "+599 717-2194",
-    services: [
-      { day: 0, time: "10:00", langs: ["en", "nl", "pap"], type: "service" },
-      { day: 3, time: "19:30", langs: ["pap"], type: "prayer" }
-    ],
-    sources: [
-      "https://infobonaire.com/moving-living-bonaire/religion-churches-bonaire/"
     ]
   },
   {
