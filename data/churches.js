@@ -45,7 +45,7 @@ window.CHURCHES = [
     denomination: "catholic",
     place: "kralendijk",
     address: "Plasa Reina Juliana 2, Kralendijk",
-    lat: 12.1497, lng: -68.2757,
+    lat: 12.1528, lng: -68.2732,
     services: [
       { day: 0, time: "09:00", langs: ["pap"], type: "mass" },
       { day: 0, time: "19:00", langs: ["pap"], type: "mass" },
@@ -70,7 +70,7 @@ window.CHURCHES = [
     denomination: "catholic",
     place: "antriol",
     address: "Kaya Korona 126, Antriol",
-    lat: 12.1655, lng: -68.2635,
+    lat: 12.1706, lng: -68.2707,
     phone: "+599 717-4211",
     services: [
       { day: 6, time: "18:00", langs: ["en"], type: "mass" },
@@ -93,7 +93,7 @@ window.CHURCHES = [
     denomination: "catholic",
     place: "rincon",
     address: "Kaya Rincon 48, Rincon",
-    lat: 12.2427, lng: -68.3262,
+    lat: 12.2371, lng: -68.3305,
     facebook: "https://www.facebook.com/p/Parokia-San-Luis-Beltran-100064544808949/",
     services: [
       { day: 0, time: "07:00", langs: ["pap"], type: "mass" },
@@ -117,7 +117,7 @@ window.CHURCHES = [
     denomination: "protestant",
     place: "kralendijk",
     address: "Plasa Reina Wilhelmina 1, Kralendijk",
-    lat: 12.1508, lng: -68.2772,
+    lat: 12.1498, lng: -68.2766,
     phone: "+599 717-8086",
     website: "https://protestantsegemeentebonaire.com/",
     translation: ["en", "pap"],
@@ -162,7 +162,7 @@ window.CHURCHES = [
     denomination: "evangelical",
     place: "hato",
     address: "Kaya Papago 104, Hato (zijweg van Kaya Gob. N. Debrot, tussen MCB en Bon Bida)",
-    lat: 12.1693, lng: -68.2838,
+    lat: 12.1696, lng: -68.2848,
     phone: "+599 717-8332",
     website: "https://bonaireibc.org/",
     facebook: "https://www.facebook.com/IBCBonaire/",
@@ -186,7 +186,7 @@ window.CHURCHES = [
     denomination: "evangelical",
     place: "kralendijk",
     address: "Kaya Brida 30, Kaminda Lagun",
-    lat: 12.1560, lng: -68.2560,
+    lat: 12.1620, lng: -68.2615,
     facebook: "https://www.facebook.com/bonairechristianfellowship/",
     translation: ["nl"],
     services: [
@@ -210,7 +210,7 @@ window.CHURCHES = [
     denomination: "evangelical",
     place: "kralendijk",
     address: "Van der Valk Plaza Beach Resort, Kaya Julio A. Abraham 80, Kralendijk",
-    lat: 12.1338, lng: -68.2788,
+    lat: 12.1372, lng: -68.2754,
     website: "https://www.activatebonaire.com/",
     services: [
       { day: 0, time: "10:00", langs: ["nl", "en"], type: "service" }
@@ -230,7 +230,7 @@ window.CHURCHES = [
     denomination: "pentecostal",
     place: "kralendijk",
     address: "Kaya Triton (Den Cheffi)",
-    lat: 12.1585, lng: -68.2700,
+    lat: 12.1469, lng: -68.2673,
     phone: "+599 717-2194",
     services: [
       { day: 0, time: "10:00", langs: ["en", "nl", "pap"], type: "service" },
@@ -267,7 +267,7 @@ window.CHURCHES = [
     denomination: "newapostolic",
     place: "noordsalina",
     address: "Kaminda Djabou (tijdelijk: Sentro di Bario Nort Saliña)",
-    lat: 12.1720, lng: -68.2745,
+    lat: 12.1647, lng: -68.2748,
     phone: "+599 700-0379",
     facebook: "https://www.facebook.com/kamindadjabou/",
     translation: ["pap", "en"],
@@ -290,7 +290,7 @@ window.CHURCHES = [
     denomination: "christ",
     place: "terakora",
     address: "Kaya Msgr. Nieuwindt 25 / Sentro di Bario Tera Kora",
-    lat: 12.1440, lng: -68.2600,
+    lat: 12.1399, lng: -68.2644,
     phone: "+599 796-0721",
     translation: ["en"],
     services: [
@@ -314,7 +314,7 @@ window.CHURCHES = [
     denomination: "adventist",
     place: "antriol",
     address: "Kaya Maria 3, Antriol",
-    lat: 12.1625, lng: -68.2655,
+    lat: 12.1660, lng: -68.2698,
     phone: "+599 717-4126",
     services: [
       { day: 6, time: "09:30", langs: ["es", "pap"], type: "service" }
@@ -334,7 +334,7 @@ window.CHURCHES = [
     denomination: "adventist",
     place: "nikiboko",
     address: "Kaya Pos di Amor 1-A, Nikiboko",
-    lat: 12.1475, lng: -68.2560,
+    lat: 12.1489, lng: -68.2644,
     phone: "+599 717-4126",
     translation: ["en"],
     services: [
@@ -355,7 +355,7 @@ window.CHURCHES = [
     denomination: "adventist",
     place: "rincon",
     address: "Kaya Hoba, Rincon",
-    lat: 12.2448, lng: -68.3250,
+    lat: 12.2346, lng: -68.3283,
     phone: "+599 717-4126",
     services: [
       { day: 6, time: null, langs: ["pap"], type: "service" }
