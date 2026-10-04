@@ -197,8 +197,12 @@
     const L = t();
     const lines = c.services.filter(s => state.other || MAIN_TYPES.includes(s.type)).sort(sortServices)
       .map(s => `${L.daysShort[s.day]} ${s.time || "?"} · ${esc(langList(s.langs))}`).join("<br>");
+    const links = [];
+    if (c.website) links.push(`<a href="${esc(c.website)}" target="_blank" rel="noopener">${L.website}</a>`);
+    else if (c.facebook) links.push(`<a href="${esc(c.facebook)}" target="_blank" rel="noopener">${L.facebook}</a>`);
+    const linksHtml = links.length ? `<div style="margin-top:6px">${links.join(" · ")}</div>` : "";
     return `<h4>${esc(c.name)}</h4><div>${esc(L.denoms[c.denomination])} · ${esc(L.places[c.place])}</div>
-      <div class="muted">${esc(c.address)}</div><div style="margin-top:6px">${lines}</div>`;
+      <div class="muted">${esc(c.address)}</div><div style="margin-top:6px">${lines}</div>${linksHtml}`;
   }
 
   function renderMap(list) {
